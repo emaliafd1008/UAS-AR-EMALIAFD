@@ -54,12 +54,12 @@
         <a-assets timeout="900000">
            
             <a-asset-item id="pokemon" src="./assets/pokemon/scene.gltf"></a-asset-item>
-                      <a-asset-item id="exoItalicFont" src="https://cdn.glitch.com/c719c986-c0c5-48b8-967c-3cd8b8aa17f3%2Fexo2BlackItalic.typeface.json?1490305922725"></a-asset-item>
+            <a-asset-item id="exoItalicFont" src="https://cdn.glitch.com/c719c986-c0c5-48b8-967c-3cd8b8aa17f3%2Fexo2BlackItalic.typeface.json?1490305922725"></a-asset-item>
         </a-assets>
 
         <!-- handle hiro marker -->
         <a-marker preset="hiro">
-          <a-entity gltf-model="#pokemon" animation-mixer></a-entity>
+          <a-entity gltf-model="#pokemon" scale="2 2 2" animation-mixer></a-entity>
         </a-marker>
 
         <!-- handle matrix marker -->
@@ -71,7 +71,7 @@
         
         <!-- handle kanji marker -->
         <a-marker preset="kanji">
-            <a-entity gltf-model="#pokemon"></a-entity>
+            <a-entity gltf-model="#pokemon" scale="2 2 2"></a-entity>
         </a-marker>
 
         <!-- add a simple camera -->
