@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lowpoly Pokemon cherubi
+* source:	https://sketchfab.com/3d-models/lowpoly-pokemon-cherubi-799360162eba41a282a99efaa38baa6e
+* author:	tharadelamo (https://sketchfab.com/tharadelamo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lowpoly Pokemon cherubi" (https://sketchfab.com/3d-models/lowpoly-pokemon-cherubi-799360162eba41a282a99efaa38baa6e) by tharadelamo (https://sketchfab.com/tharadelamo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
